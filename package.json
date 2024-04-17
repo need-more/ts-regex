@@ -1,5 +1,5 @@
 {
-  "name": "regex",
+  "name": "xcx-regex",
   "version": "1.0.0",
   "description": "常见的正则表达式",
   "main": "index.ts",
