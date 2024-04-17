@@ -5,6 +5,11 @@
   "main": "index.ts",
   "author": "xieja",
   "license": "MIT",
+  "keywords": ["regex"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/need-more/ts-regex.git"
+  },
   "dependencies": {
     "npx": "^10.2.2",
     "tsc": "^2.0.4",
