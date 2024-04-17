@@ -1,0 +1,13 @@
+{
+  "name": "regex",
+  "version": "1.0.0",
+  "description": "常见的正则表达式",
+  "main": "index.ts",
+  "author": "xieja",
+  "license": "MIT",
+  "dependencies": {
+    "npx": "^10.2.2",
+    "tsc": "^2.0.4",
+    "typescript": "^5.4.5"
+  }
+}
